@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/:url*", "destination": "https://codeforces.com/:url*" }
+    { "source": ":url*", "destination": "https://codeforces.com/:url*" }
   ]
 }
